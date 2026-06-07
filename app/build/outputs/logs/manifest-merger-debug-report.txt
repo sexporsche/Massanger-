@@ -1,0 +1,516 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\android\CorporateMessenger-CorporateMessenger\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from D:\android\CorporateMessenger-CorporateMessenger\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from D:\android\CorporateMessenger-CorporateMessenger\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from D:\android\CorporateMessenger-CorporateMessenger\app\src\main\AndroidManifest.xml:2:1-51:12
+MERGED from [androidx.databinding:viewbinding:7.4.2] C:\Users\sexporsche\.gradle\caches\transforms-3\e2dda40381ec36efa35c4e3b26630dcc\transformed\jetified-viewbinding-7.4.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-common:2.7.7] C:\Users\sexporsche\.gradle\caches\transforms-3\4d0f9b5f27654fbf38787c22d4e87581\transformed\navigation-common-2.7.7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.7.7] C:\Users\sexporsche\.gradle\caches\transforms-3\c34fc15e69584fa7dfb07c7db12cdcd5\transformed\navigation-runtime-2.7.7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.7.7] C:\Users\sexporsche\.gradle\caches\transforms-3\f8faa2d50b369c5b970b5c587a75d562\transformed\navigation-common-ktx-2.7.7\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.7.7] C:\Users\sexporsche\.gradle\caches\transforms-3\2fd7868edf41a00b7297271ff976125a\transformed\navigation-runtime-ktx-2.7.7\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-compose:2.7.7] C:\Users\sexporsche\.gradle\caches\transforms-3\411b3c2d487d1160319946fe171619b8\transformed\jetified-navigation-compose-2.7.7\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\sexporsche\.gradle\caches\transforms-3\1b47410d7e52b05691dabef5623085f9\transformed\material-1.11.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\sexporsche\.gradle\caches\transforms-3\6c82b65e460f6723c92d7a227ec8187f\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [io.coil-kt:coil-compose:2.6.0] C:\Users\sexporsche\.gradle\caches\transforms-3\80e2aaa90a839ad92c5b12575e37cd31\transformed\jetified-coil-compose-2.6.0\AndroidManifest.xml:2:1-7:12
+MERGED from [io.coil-kt:coil-compose-base:2.6.0] C:\Users\sexporsche\.gradle\caches\transforms-3\598fe9c4360336910da1344522941668\transformed\jetified-coil-compose-base-2.6.0\AndroidManifest.xml:2:1-7:12
+MERGED from [io.coil-kt:coil:2.6.0] C:\Users\sexporsche\.gradle\caches\transforms-3\8cf5464c70b779f6ea8025147489ab08\transformed\jetified-coil-2.6.0\AndroidManifest.xml:2:1-7:12
+MERGED from [io.coil-kt:coil-base:2.6.0] C:\Users\sexporsche\.gradle\caches\transforms-3\4f25d14aec90436790dfe7cbaed3df3d\transformed\jetified-coil-base-2.6.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\sexporsche\.gradle\caches\transforms-3\710a1fe53aab40c3e44be042d49d53a0\transformed\jetified-appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\sexporsche\.gradle\caches\transforms-3\519a579fb77f88ad4e5faa2780a94f1b\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.3.2] C:\Users\sexporsche\.gradle\caches\transforms-3\e66d52849f7c12973a5522ad67336cea\transformed\recyclerview-1.3.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] C:\Users\sexporsche\.gradle\caches\transforms-3\09aa60418d292bc5443c987d92f16bf4\transformed\jetified-viewpager2-1.1.0-beta02\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\sexporsche\.gradle\caches\transforms-3\b22b958d7df23c42815ac5e8160ae7eb\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.8.2] C:\Users\sexporsche\.gradle\caches\transforms-3\093c52b1561a313c9484a58bc72da59f\transformed\jetified-activity-1.8.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material3:material3-android:1.2.0] C:\Users\sexporsche\.gradle\caches\transforms-3\56afdd65598e9c698e9bec9fa0e321f0\transformed\jetified-material3-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material:material-ripple-android:1.6.1] C:\Users\sexporsche\.gradle\caches\transforms-3\8730ecb61b41c722fb48b65c565cc565\transformed\jetified-material-ripple-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-core-android:1.6.1] C:\Users\sexporsche\.gradle\caches\transforms-3\7f9afb7d37abed67b47a80a4063ee7a7\transformed\jetified-material-icons-core-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-extended-android:1.6.1] C:\Users\sexporsche\.gradle\caches\transforms-3\91cf179c14406e8b09c94e01d7a5e670\transformed\jetified-material-icons-extended-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-android:1.6.1] C:\Users\sexporsche\.gradle\caches\transforms-3\64852eac3b7223304bc3a80539860a45\transformed\jetified-material-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.6.1] C:\Users\sexporsche\.gradle\caches\transforms-3\ae20bbff5bbc6c6b7374f1c525675c0f\transformed\jetified-foundation-layout-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-android:1.6.1] C:\Users\sexporsche\.gradle\caches\transforms-3\d693b17af751b14d9744a7c2743e5f17\transformed\jetified-foundation-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-core-android:1.6.1] C:\Users\sexporsche\.gradle\caches\transforms-3\2dfc58a21bff2a8d2ab04d1352bf88a9\transformed\jetified-animation-core-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-android:1.6.1] C:\Users\sexporsche\.gradle\caches\transforms-3\52867a0c33fc5da580911b31aa0cc4fa\transformed\jetified-animation-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.6.1] C:\Users\sexporsche\.gradle\caches\transforms-3\3c7cf906645654c3024388ddd4585ef4\transformed\jetified-ui-tooling-data-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-unit-android:1.6.1] C:\Users\sexporsche\.gradle\caches\transforms-3\f51a624b4417d7da932c1b09d0325f13\transformed\jetified-ui-unit-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-text-android:1.6.1] C:\Users\sexporsche\.gradle\caches\transforms-3\de5f43150f32404597f6e7bd79b6bf5e\transformed\jetified-ui-text-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-util-android:1.6.1] C:\Users\sexporsche\.gradle\caches\transforms-3\3c67fb3d9e27ca113534210d76cfd8fe\transformed\jetified-ui-util-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-geometry-android:1.6.1] C:\Users\sexporsche\.gradle\caches\transforms-3\99855427333be607e43d009442133eef\transformed\jetified-ui-geometry-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.6.1] C:\Users\sexporsche\.gradle\caches\transforms-3\f6e19bbc3952e69a8a54dcb1880da2c8\transformed\jetified-ui-tooling-preview-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-graphics-android:1.6.1] C:\Users\sexporsche\.gradle\caches\transforms-3\79da91784d1a3a3f23e9168f7779d0b4\transformed\jetified-ui-graphics-release\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.accompanist:accompanist-drawablepainter:0.32.0] C:\Users\sexporsche\.gradle\caches\transforms-3\e2a12369ee3d976c1dd36253aceb5ae9\transformed\jetified-accompanist-drawablepainter-0.32.0\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.ui:ui-android:1.6.1] C:\Users\sexporsche\.gradle\caches\transforms-3\e9ba4a72367d44787967f68e604e5899\transformed\jetified-ui-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.1] C:\Users\sexporsche\.gradle\caches\transforms-3\f7ffe07bb75ab6ea6e3e686825b9ec57\transformed\jetified-ui-tooling-release\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.activity:activity-compose:1.8.2] C:\Users\sexporsche\.gradle\caches\transforms-3\f28af719663d96e6f4b883f24a80e03d\transformed\jetified-activity-compose-1.8.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-ktx:1.8.2] C:\Users\sexporsche\.gradle\caches\transforms-3\8ea82b66d43baffffd47b43e9c10d4ee\transformed\jetified-activity-ktx-1.8.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\sexporsche\.gradle\caches\transforms-3\939fc258953deae25dff1504a8b0c761\transformed\jetified-customview-poolingcontainer-1.0.0\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.12.0] C:\Users\sexporsche\.gradle\caches\transforms-3\0ac775ea7813c2d56fda881959c46252\transformed\jetified-core-ktx-1.12.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\sexporsche\.gradle\caches\transforms-3\5362c71add9c73ff80dd3619fd94d251\transformed\swiperefreshlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.2.0] C:\Users\sexporsche\.gradle\caches\transforms-3\879aac4cc67d8492342b5b2fd06aed79\transformed\coordinatorlayout-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\sexporsche\.gradle\caches\transforms-3\3c01dd48e0f41f7f653317da631ccaf8\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\sexporsche\.gradle\caches\transforms-3\2a833a01a2ff5c3e30e308b329bb48d7\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\sexporsche\.gradle\caches\transforms-3\dff0a48efc22bfe283f22f8d709723c5\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\sexporsche\.gradle\caches\transforms-3\2e9e565da4c5948e06864e45991c08c7\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\sexporsche\.gradle\caches\transforms-3\e758e5f790b30d6231ce341e8945ce37\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\sexporsche\.gradle\caches\transforms-3\86a56f6296b2213a265cd5c1dbbd46f3\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\sexporsche\.gradle\caches\transforms-3\7aa226efa4f2fe64f2fd8f6891155ce3\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\sexporsche\.gradle\caches\transforms-3\45e166ad2a63dfb7991c20b3f54ea705\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\sexporsche\.gradle\caches\transforms-3\8b0e5e74d513da7f19908af768c4867b\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\sexporsche\.gradle\caches\transforms-3\7c60b6223db4691ea1f22bc0d12aaa7d\transformed\jetified-autofill-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\sexporsche\.gradle\caches\transforms-3\af9ecd905ab0994c3db237af0279d2f2\transformed\jetified-emoji2-views-helper-1.3.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\sexporsche\.gradle\caches\transforms-3\91463a0135f8771186b583586a71d070\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.core:core:1.12.0] C:\Users\sexporsche\.gradle\caches\transforms-3\81317a5fabfcc4f617d3522184e0f396\transformed\core-1.12.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\sexporsche\.gradle\caches\transforms-3\ba071f514acabe8cc86ac3bcb6761428\transformed\jetified-savedstate-ktx-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\sexporsche\.gradle\caches\transforms-3\f68448a0ae8bb8d38f0a3bc0035e66bf\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\sexporsche\.gradle\caches\transforms-3\f5c400ac819ed3692955157be4462b21\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] C:\Users\sexporsche\.gradle\caches\transforms-3\29bc6d06ef0d325bfbe2aadd75064254\transformed\lifecycle-livedata-core-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] C:\Users\sexporsche\.gradle\caches\transforms-3\b89b247fefe2096aca7dd5145a813965\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] C:\Users\sexporsche\.gradle\caches\transforms-3\1da272fd55a0753e739091785d6f6078\transformed\lifecycle-livedata-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] C:\Users\sexporsche\.gradle\caches\transforms-3\b9eb3eea1ebd05e8dd06de684b90d0d0\transformed\lifecycle-runtime-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] C:\Users\sexporsche\.gradle\caches\transforms-3\34741491e73c5fcbc5492a491e0f06e0\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] C:\Users\sexporsche\.gradle\caches\transforms-3\8a0343afe2afff88def92a3f63579aaf\transformed\lifecycle-viewmodel-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] C:\Users\sexporsche\.gradle\caches\transforms-3\97784346b6f77e0468d945e09d042ff5\transformed\jetified-lifecycle-runtime-ktx-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.7.0] C:\Users\sexporsche\.gradle\caches\transforms-3\7b6b4f0c2b49cab943259f0b43ccef23\transformed\jetified-lifecycle-livedata-ktx-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.7.0] C:\Users\sexporsche\.gradle\caches\transforms-3\3b0e3ae53272e45446b4dd36d2905673\transformed\jetified-lifecycle-viewmodel-compose-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose:2.7.0] C:\Users\sexporsche\.gradle\caches\transforms-3\13cdd2583432d1c18c414f67dcdf9aee\transformed\jetified-lifecycle-runtime-compose-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] C:\Users\sexporsche\.gradle\caches\transforms-3\c8fd0d29991d469e206a4be414da8f69\transformed\jetified-lifecycle-viewmodel-ktx-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.room:room-runtime:2.6.1] C:\Users\sexporsche\.gradle\caches\transforms-3\9571e14c88c6cdc7502b2d2c9aa17cbe\transformed\room-runtime-2.6.1\AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.room:room-ktx:2.6.1] C:\Users\sexporsche\.gradle\caches\transforms-3\bcf7cbf14f3feeaa9bebde100f42c8eb\transformed\jetified-room-ktx-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.6.1] C:\Users\sexporsche\.gradle\caches\transforms-3\c3b6785c92ee267946286f78c1e4252a\transformed\jetified-runtime-saveable-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-android:1.6.1] C:\Users\sexporsche\.gradle\caches\transforms-3\55d50d24ef1cf6e98692b49490dfec86\transformed\jetified-runtime-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.sqlite:sqlite-framework:2.4.0] C:\Users\sexporsche\.gradle\caches\transforms-3\cdaea25c4d86011fcd7867dcd5916ae9\transformed\sqlite-framework-2.4.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.4.0] C:\Users\sexporsche\.gradle\caches\transforms-3\61c8a979cce74ccd400cd2def30be15c\transformed\sqlite-2.4.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\sexporsche\.gradle\caches\transforms-3\86ffdf654a57c4fcce07bcc737cfaa18\transformed\jetified-annotation-experimental-1.4.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\sexporsche\.gradle\caches\transforms-3\3d048974f960b44f08a1a837a28a9a93\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\sexporsche\.gradle\caches\transforms-3\cc1b0b5c688c35d8ce20a3b1f1ebd106\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\sexporsche\.gradle\caches\transforms-3\8073f44f80a1dea4ecc38b1d4bd798fc\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\sexporsche\.gradle\caches\transforms-3\ab7ebc41a8fc8dd8e36b44d4e76c942e\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\sexporsche\.gradle\caches\transforms-3\58ecee9e6674fe2d8dc4a4ac1c50c292\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\sexporsche\.gradle\caches\transforms-3\1e40877f996d021674e23d2724db8721\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\sexporsche\.gradle\caches\transforms-3\06229b3a6e76228d991474618e71b7c6\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\sexporsche\.gradle\caches\transforms-3\f06eb19383a1188b9d11887181d48c0a\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\sexporsche\.gradle\caches\transforms-3\8b8b29c149e80bce53542f769f47aef0\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\sexporsche\.gradle\caches\transforms-3\36c8a1b5549cc031ec7c1b2d9f6c8804\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\sexporsche\.gradle\caches\transforms-3\410b684179f41e532fdb1db2482f0e60\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.7] C:\Users\sexporsche\.gradle\caches\transforms-3\df88f22a39a847215a9b23442224f3b0\transformed\exifinterface-1.3.7\AndroidManifest.xml:17:1-24:12
+INJECTED from D:\android\CorporateMessenger-CorporateMessenger\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from D:\android\CorporateMessenger-CorporateMessenger\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from D:\android\CorporateMessenger-CorporateMessenger\app\src\main\AndroidManifest.xml:2:1-51:12
+	package
+		ADDED from D:\android\CorporateMessenger-CorporateMessenger\app\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from D:\android\CorporateMessenger-CorporateMessenger\app\src\main\AndroidManifest.xml
+		INJECTED from D:\android\CorporateMessenger-CorporateMessenger\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\android\CorporateMessenger-CorporateMessenger\app\src\main\AndroidManifest.xml
+		ADDED from D:\android\CorporateMessenger-CorporateMessenger\app\src\main\AndroidManifest.xml:2:1-51:12
+		INJECTED from D:\android\CorporateMessenger-CorporateMessenger\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\android\CorporateMessenger-CorporateMessenger\app\src\main\AndroidManifest.xml
+		ADDED from D:\android\CorporateMessenger-CorporateMessenger\app\src\main\AndroidManifest.xml:2:1-51:12
+		INJECTED from D:\android\CorporateMessenger-CorporateMessenger\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\android\CorporateMessenger-CorporateMessenger\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\android\CorporateMessenger-CorporateMessenger\app\src\main\AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from D:\android\CorporateMessenger-CorporateMessenger\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\android\CorporateMessenger-CorporateMessenger\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from D:\android\CorporateMessenger-CorporateMessenger\app\src\main\AndroidManifest.xml:6:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\android\CorporateMessenger-CorporateMessenger\app\src\main\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from D:\android\CorporateMessenger-CorporateMessenger\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from D:\android\CorporateMessenger-CorporateMessenger\app\src\main\AndroidManifest.xml:8:5-76
+	android:name
+		ADDED from D:\android\CorporateMessenger-CorporateMessenger\app\src\main\AndroidManifest.xml:8:22-74
+uses-permission#android.permission.VIBRATE
+ADDED from D:\android\CorporateMessenger-CorporateMessenger\app\src\main\AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from D:\android\CorporateMessenger-CorporateMessenger\app\src\main\AndroidManifest.xml:9:22-63
+application
+ADDED from D:\android\CorporateMessenger-CorporateMessenger\app\src\main\AndroidManifest.xml:11:5-49:19
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\sexporsche\.gradle\caches\transforms-3\1b47410d7e52b05691dabef5623085f9\transformed\material-1.11.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\sexporsche\.gradle\caches\transforms-3\1b47410d7e52b05691dabef5623085f9\transformed\material-1.11.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\sexporsche\.gradle\caches\transforms-3\6c82b65e460f6723c92d7a227ec8187f\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\sexporsche\.gradle\caches\transforms-3\6c82b65e460f6723c92d7a227ec8187f\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.1] C:\Users\sexporsche\.gradle\caches\transforms-3\f7ffe07bb75ab6ea6e3e686825b9ec57\transformed\jetified-ui-tooling-release\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.1] C:\Users\sexporsche\.gradle\caches\transforms-3\f7ffe07bb75ab6ea6e3e686825b9ec57\transformed\jetified-ui-tooling-release\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\sexporsche\.gradle\caches\transforms-3\91463a0135f8771186b583586a71d070\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\sexporsche\.gradle\caches\transforms-3\91463a0135f8771186b583586a71d070\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.12.0] C:\Users\sexporsche\.gradle\caches\transforms-3\81317a5fabfcc4f617d3522184e0f396\transformed\core-1.12.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.12.0] C:\Users\sexporsche\.gradle\caches\transforms-3\81317a5fabfcc4f617d3522184e0f396\transformed\core-1.12.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\sexporsche\.gradle\caches\transforms-3\f5c400ac819ed3692955157be4462b21\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\sexporsche\.gradle\caches\transforms-3\f5c400ac819ed3692955157be4462b21\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.room:room-runtime:2.6.1] C:\Users\sexporsche\.gradle\caches\transforms-3\9571e14c88c6cdc7502b2d2c9aa17cbe\transformed\room-runtime-2.6.1\AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.room:room-runtime:2.6.1] C:\Users\sexporsche\.gradle\caches\transforms-3\9571e14c88c6cdc7502b2d2c9aa17cbe\transformed\room-runtime-2.6.1\AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\sexporsche\.gradle\caches\transforms-3\3d048974f960b44f08a1a837a28a9a93\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\sexporsche\.gradle\caches\transforms-3\3d048974f960b44f08a1a837a28a9a93\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\sexporsche\.gradle\caches\transforms-3\1e40877f996d021674e23d2724db8721\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\sexporsche\.gradle\caches\transforms-3\1e40877f996d021674e23d2724db8721\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\sexporsche\.gradle\caches\transforms-3\06229b3a6e76228d991474618e71b7c6\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\sexporsche\.gradle\caches\transforms-3\06229b3a6e76228d991474618e71b7c6\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.12.0] C:\Users\sexporsche\.gradle\caches\transforms-3\81317a5fabfcc4f617d3522184e0f396\transformed\core-1.12.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from D:\android\CorporateMessenger-CorporateMessenger\app\src\main\AndroidManifest.xml:17:9-35
+	android:label
+		ADDED from D:\android\CorporateMessenger-CorporateMessenger\app\src\main\AndroidManifest.xml:14:9-41
+	android:roundIcon
+		ADDED from D:\android\CorporateMessenger-CorporateMessenger\app\src\main\AndroidManifest.xml:16:9-54
+	android:icon
+		ADDED from D:\android\CorporateMessenger-CorporateMessenger\app\src\main\AndroidManifest.xml:15:9-43
+	android:allowBackup
+		ADDED from D:\android\CorporateMessenger-CorporateMessenger\app\src\main\AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from D:\android\CorporateMessenger-CorporateMessenger\app\src\main\AndroidManifest.xml:18:9-47
+	android:name
+		ADDED from D:\android\CorporateMessenger-CorporateMessenger\app\src\main\AndroidManifest.xml:12:9-45
+activity#com.example.messenger.ui.compose.SplashActivity
+ADDED from D:\android\CorporateMessenger-CorporateMessenger\app\src\main\AndroidManifest.xml:20:9-28:20
+	android:exported
+		ADDED from D:\android\CorporateMessenger-CorporateMessenger\app\src\main\AndroidManifest.xml:22:13-36
+	android:theme
+		ADDED from D:\android\CorporateMessenger-CorporateMessenger\app\src\main\AndroidManifest.xml:23:13-51
+	android:name
+		ADDED from D:\android\CorporateMessenger-CorporateMessenger\app\src\main\AndroidManifest.xml:21:13-54
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\android\CorporateMessenger-CorporateMessenger\app\src\main\AndroidManifest.xml:24:13-27:29
+action#android.intent.action.MAIN
+ADDED from D:\android\CorporateMessenger-CorporateMessenger\app\src\main\AndroidManifest.xml:25:17-68
+	android:name
+		ADDED from D:\android\CorporateMessenger-CorporateMessenger\app\src\main\AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\android\CorporateMessenger-CorporateMessenger\app\src\main\AndroidManifest.xml:26:17-76
+	android:name
+		ADDED from D:\android\CorporateMessenger-CorporateMessenger\app\src\main\AndroidManifest.xml:26:27-74
+activity#com.example.messenger.ui.LoginActivity
+ADDED from D:\android\CorporateMessenger-CorporateMessenger\app\src\main\AndroidManifest.xml:30:9-32:39
+	android:exported
+		ADDED from D:\android\CorporateMessenger-CorporateMessenger\app\src\main\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from D:\android\CorporateMessenger-CorporateMessenger\app\src\main\AndroidManifest.xml:31:13-45
+activity#com.example.messenger.ui.compose.RegisterComposeActivity
+ADDED from D:\android\CorporateMessenger-CorporateMessenger\app\src\main\AndroidManifest.xml:34:9-36:39
+	android:exported
+		ADDED from D:\android\CorporateMessenger-CorporateMessenger\app\src\main\AndroidManifest.xml:36:13-37
+	android:name
+		ADDED from D:\android\CorporateMessenger-CorporateMessenger\app\src\main\AndroidManifest.xml:35:13-63
+activity#com.example.messenger.ui.compose.PrimeComposeActivity
+ADDED from D:\android\CorporateMessenger-CorporateMessenger\app\src\main\AndroidManifest.xml:38:9-40:39
+	android:exported
+		ADDED from D:\android\CorporateMessenger-CorporateMessenger\app\src\main\AndroidManifest.xml:40:13-37
+	android:name
+		ADDED from D:\android\CorporateMessenger-CorporateMessenger\app\src\main\AndroidManifest.xml:39:13-60
+activity#com.example.messenger.ui.ChatActivity
+ADDED from D:\android\CorporateMessenger-CorporateMessenger\app\src\main\AndroidManifest.xml:42:9-44:39
+	android:exported
+		ADDED from D:\android\CorporateMessenger-CorporateMessenger\app\src\main\AndroidManifest.xml:44:13-37
+	android:name
+		ADDED from D:\android\CorporateMessenger-CorporateMessenger\app\src\main\AndroidManifest.xml:43:13-44
+activity#com.example.messenger.ui.ContactsActivity
+ADDED from D:\android\CorporateMessenger-CorporateMessenger\app\src\main\AndroidManifest.xml:46:9-48:39
+	android:exported
+		ADDED from D:\android\CorporateMessenger-CorporateMessenger\app\src\main\AndroidManifest.xml:48:13-37
+	android:name
+		ADDED from D:\android\CorporateMessenger-CorporateMessenger\app\src\main\AndroidManifest.xml:47:13-48
+uses-sdk
+INJECTED from D:\android\CorporateMessenger-CorporateMessenger\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\android\CorporateMessenger-CorporateMessenger\app\src\main\AndroidManifest.xml
+INJECTED from D:\android\CorporateMessenger-CorporateMessenger\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:7.4.2] C:\Users\sexporsche\.gradle\caches\transforms-3\e2dda40381ec36efa35c4e3b26630dcc\transformed\jetified-viewbinding-7.4.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:7.4.2] C:\Users\sexporsche\.gradle\caches\transforms-3\e2dda40381ec36efa35c4e3b26630dcc\transformed\jetified-viewbinding-7.4.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-common:2.7.7] C:\Users\sexporsche\.gradle\caches\transforms-3\4d0f9b5f27654fbf38787c22d4e87581\transformed\navigation-common-2.7.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.7.7] C:\Users\sexporsche\.gradle\caches\transforms-3\4d0f9b5f27654fbf38787c22d4e87581\transformed\navigation-common-2.7.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.7.7] C:\Users\sexporsche\.gradle\caches\transforms-3\c34fc15e69584fa7dfb07c7db12cdcd5\transformed\navigation-runtime-2.7.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.7.7] C:\Users\sexporsche\.gradle\caches\transforms-3\c34fc15e69584fa7dfb07c7db12cdcd5\transformed\navigation-runtime-2.7.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.7.7] C:\Users\sexporsche\.gradle\caches\transforms-3\f8faa2d50b369c5b970b5c587a75d562\transformed\navigation-common-ktx-2.7.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.7.7] C:\Users\sexporsche\.gradle\caches\transforms-3\f8faa2d50b369c5b970b5c587a75d562\transformed\navigation-common-ktx-2.7.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.7.7] C:\Users\sexporsche\.gradle\caches\transforms-3\2fd7868edf41a00b7297271ff976125a\transformed\navigation-runtime-ktx-2.7.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.7.7] C:\Users\sexporsche\.gradle\caches\transforms-3\2fd7868edf41a00b7297271ff976125a\transformed\navigation-runtime-ktx-2.7.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-compose:2.7.7] C:\Users\sexporsche\.gradle\caches\transforms-3\411b3c2d487d1160319946fe171619b8\transformed\jetified-navigation-compose-2.7.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-compose:2.7.7] C:\Users\sexporsche\.gradle\caches\transforms-3\411b3c2d487d1160319946fe171619b8\transformed\jetified-navigation-compose-2.7.7\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\sexporsche\.gradle\caches\transforms-3\1b47410d7e52b05691dabef5623085f9\transformed\material-1.11.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\sexporsche\.gradle\caches\transforms-3\1b47410d7e52b05691dabef5623085f9\transformed\material-1.11.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\sexporsche\.gradle\caches\transforms-3\6c82b65e460f6723c92d7a227ec8187f\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\sexporsche\.gradle\caches\transforms-3\6c82b65e460f6723c92d7a227ec8187f\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [io.coil-kt:coil-compose:2.6.0] C:\Users\sexporsche\.gradle\caches\transforms-3\80e2aaa90a839ad92c5b12575e37cd31\transformed\jetified-coil-compose-2.6.0\AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-compose:2.6.0] C:\Users\sexporsche\.gradle\caches\transforms-3\80e2aaa90a839ad92c5b12575e37cd31\transformed\jetified-coil-compose-2.6.0\AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-compose-base:2.6.0] C:\Users\sexporsche\.gradle\caches\transforms-3\598fe9c4360336910da1344522941668\transformed\jetified-coil-compose-base-2.6.0\AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-compose-base:2.6.0] C:\Users\sexporsche\.gradle\caches\transforms-3\598fe9c4360336910da1344522941668\transformed\jetified-coil-compose-base-2.6.0\AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil:2.6.0] C:\Users\sexporsche\.gradle\caches\transforms-3\8cf5464c70b779f6ea8025147489ab08\transformed\jetified-coil-2.6.0\AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil:2.6.0] C:\Users\sexporsche\.gradle\caches\transforms-3\8cf5464c70b779f6ea8025147489ab08\transformed\jetified-coil-2.6.0\AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-base:2.6.0] C:\Users\sexporsche\.gradle\caches\transforms-3\4f25d14aec90436790dfe7cbaed3df3d\transformed\jetified-coil-base-2.6.0\AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-base:2.6.0] C:\Users\sexporsche\.gradle\caches\transforms-3\4f25d14aec90436790dfe7cbaed3df3d\transformed\jetified-coil-base-2.6.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\sexporsche\.gradle\caches\transforms-3\710a1fe53aab40c3e44be042d49d53a0\transformed\jetified-appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\sexporsche\.gradle\caches\transforms-3\710a1fe53aab40c3e44be042d49d53a0\transformed\jetified-appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\sexporsche\.gradle\caches\transforms-3\519a579fb77f88ad4e5faa2780a94f1b\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\sexporsche\.gradle\caches\transforms-3\519a579fb77f88ad4e5faa2780a94f1b\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.3.2] C:\Users\sexporsche\.gradle\caches\transforms-3\e66d52849f7c12973a5522ad67336cea\transformed\recyclerview-1.3.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.3.2] C:\Users\sexporsche\.gradle\caches\transforms-3\e66d52849f7c12973a5522ad67336cea\transformed\recyclerview-1.3.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] C:\Users\sexporsche\.gradle\caches\transforms-3\09aa60418d292bc5443c987d92f16bf4\transformed\jetified-viewpager2-1.1.0-beta02\AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] C:\Users\sexporsche\.gradle\caches\transforms-3\09aa60418d292bc5443c987d92f16bf4\transformed\jetified-viewpager2-1.1.0-beta02\AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\sexporsche\.gradle\caches\transforms-3\b22b958d7df23c42815ac5e8160ae7eb\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\sexporsche\.gradle\caches\transforms-3\b22b958d7df23c42815ac5e8160ae7eb\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.8.2] C:\Users\sexporsche\.gradle\caches\transforms-3\093c52b1561a313c9484a58bc72da59f\transformed\jetified-activity-1.8.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.2] C:\Users\sexporsche\.gradle\caches\transforms-3\093c52b1561a313c9484a58bc72da59f\transformed\jetified-activity-1.8.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3-android:1.2.0] C:\Users\sexporsche\.gradle\caches\transforms-3\56afdd65598e9c698e9bec9fa0e321f0\transformed\jetified-material3-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3-android:1.2.0] C:\Users\sexporsche\.gradle\caches\transforms-3\56afdd65598e9c698e9bec9fa0e321f0\transformed\jetified-material3-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.6.1] C:\Users\sexporsche\.gradle\caches\transforms-3\8730ecb61b41c722fb48b65c565cc565\transformed\jetified-material-ripple-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.6.1] C:\Users\sexporsche\.gradle\caches\transforms-3\8730ecb61b41c722fb48b65c565cc565\transformed\jetified-material-ripple-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.6.1] C:\Users\sexporsche\.gradle\caches\transforms-3\7f9afb7d37abed67b47a80a4063ee7a7\transformed\jetified-material-icons-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.6.1] C:\Users\sexporsche\.gradle\caches\transforms-3\7f9afb7d37abed67b47a80a4063ee7a7\transformed\jetified-material-icons-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-extended-android:1.6.1] C:\Users\sexporsche\.gradle\caches\transforms-3\91cf179c14406e8b09c94e01d7a5e670\transformed\jetified-material-icons-extended-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-extended-android:1.6.1] C:\Users\sexporsche\.gradle\caches\transforms-3\91cf179c14406e8b09c94e01d7a5e670\transformed\jetified-material-icons-extended-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.6.1] C:\Users\sexporsche\.gradle\caches\transforms-3\64852eac3b7223304bc3a80539860a45\transformed\jetified-material-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.6.1] C:\Users\sexporsche\.gradle\caches\transforms-3\64852eac3b7223304bc3a80539860a45\transformed\jetified-material-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.6.1] C:\Users\sexporsche\.gradle\caches\transforms-3\ae20bbff5bbc6c6b7374f1c525675c0f\transformed\jetified-foundation-layout-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.6.1] C:\Users\sexporsche\.gradle\caches\transforms-3\ae20bbff5bbc6c6b7374f1c525675c0f\transformed\jetified-foundation-layout-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.6.1] C:\Users\sexporsche\.gradle\caches\transforms-3\d693b17af751b14d9744a7c2743e5f17\transformed\jetified-foundation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.6.1] C:\Users\sexporsche\.gradle\caches\transforms-3\d693b17af751b14d9744a7c2743e5f17\transformed\jetified-foundation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.6.1] C:\Users\sexporsche\.gradle\caches\transforms-3\2dfc58a21bff2a8d2ab04d1352bf88a9\transformed\jetified-animation-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.6.1] C:\Users\sexporsche\.gradle\caches\transforms-3\2dfc58a21bff2a8d2ab04d1352bf88a9\transformed\jetified-animation-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.6.1] C:\Users\sexporsche\.gradle\caches\transforms-3\52867a0c33fc5da580911b31aa0cc4fa\transformed\jetified-animation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.6.1] C:\Users\sexporsche\.gradle\caches\transforms-3\52867a0c33fc5da580911b31aa0cc4fa\transformed\jetified-animation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.6.1] C:\Users\sexporsche\.gradle\caches\transforms-3\3c7cf906645654c3024388ddd4585ef4\transformed\jetified-ui-tooling-data-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.6.1] C:\Users\sexporsche\.gradle\caches\transforms-3\3c7cf906645654c3024388ddd4585ef4\transformed\jetified-ui-tooling-data-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.6.1] C:\Users\sexporsche\.gradle\caches\transforms-3\f51a624b4417d7da932c1b09d0325f13\transformed\jetified-ui-unit-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.6.1] C:\Users\sexporsche\.gradle\caches\transforms-3\f51a624b4417d7da932c1b09d0325f13\transformed\jetified-ui-unit-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.6.1] C:\Users\sexporsche\.gradle\caches\transforms-3\de5f43150f32404597f6e7bd79b6bf5e\transformed\jetified-ui-text-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.6.1] C:\Users\sexporsche\.gradle\caches\transforms-3\de5f43150f32404597f6e7bd79b6bf5e\transformed\jetified-ui-text-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.6.1] C:\Users\sexporsche\.gradle\caches\transforms-3\3c67fb3d9e27ca113534210d76cfd8fe\transformed\jetified-ui-util-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.6.1] C:\Users\sexporsche\.gradle\caches\transforms-3\3c67fb3d9e27ca113534210d76cfd8fe\transformed\jetified-ui-util-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.6.1] C:\Users\sexporsche\.gradle\caches\transforms-3\99855427333be607e43d009442133eef\transformed\jetified-ui-geometry-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.6.1] C:\Users\sexporsche\.gradle\caches\transforms-3\99855427333be607e43d009442133eef\transformed\jetified-ui-geometry-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.6.1] C:\Users\sexporsche\.gradle\caches\transforms-3\f6e19bbc3952e69a8a54dcb1880da2c8\transformed\jetified-ui-tooling-preview-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.6.1] C:\Users\sexporsche\.gradle\caches\transforms-3\f6e19bbc3952e69a8a54dcb1880da2c8\transformed\jetified-ui-tooling-preview-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.6.1] C:\Users\sexporsche\.gradle\caches\transforms-3\79da91784d1a3a3f23e9168f7779d0b4\transformed\jetified-ui-graphics-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.6.1] C:\Users\sexporsche\.gradle\caches\transforms-3\79da91784d1a3a3f23e9168f7779d0b4\transformed\jetified-ui-graphics-release\AndroidManifest.xml:5:5-44
+MERGED from [com.google.accompanist:accompanist-drawablepainter:0.32.0] C:\Users\sexporsche\.gradle\caches\transforms-3\e2a12369ee3d976c1dd36253aceb5ae9\transformed\jetified-accompanist-drawablepainter-0.32.0\AndroidManifest.xml:21:5-44
+MERGED from [com.google.accompanist:accompanist-drawablepainter:0.32.0] C:\Users\sexporsche\.gradle\caches\transforms-3\e2a12369ee3d976c1dd36253aceb5ae9\transformed\jetified-accompanist-drawablepainter-0.32.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.compose.ui:ui-android:1.6.1] C:\Users\sexporsche\.gradle\caches\transforms-3\e9ba4a72367d44787967f68e604e5899\transformed\jetified-ui-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.6.1] C:\Users\sexporsche\.gradle\caches\transforms-3\e9ba4a72367d44787967f68e604e5899\transformed\jetified-ui-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.1] C:\Users\sexporsche\.gradle\caches\transforms-3\f7ffe07bb75ab6ea6e3e686825b9ec57\transformed\jetified-ui-tooling-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.1] C:\Users\sexporsche\.gradle\caches\transforms-3\f7ffe07bb75ab6ea6e3e686825b9ec57\transformed\jetified-ui-tooling-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-compose:1.8.2] C:\Users\sexporsche\.gradle\caches\transforms-3\f28af719663d96e6f4b883f24a80e03d\transformed\jetified-activity-compose-1.8.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.8.2] C:\Users\sexporsche\.gradle\caches\transforms-3\f28af719663d96e6f4b883f24a80e03d\transformed\jetified-activity-compose-1.8.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.2] C:\Users\sexporsche\.gradle\caches\transforms-3\8ea82b66d43baffffd47b43e9c10d4ee\transformed\jetified-activity-ktx-1.8.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.2] C:\Users\sexporsche\.gradle\caches\transforms-3\8ea82b66d43baffffd47b43e9c10d4ee\transformed\jetified-activity-ktx-1.8.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\sexporsche\.gradle\caches\transforms-3\939fc258953deae25dff1504a8b0c761\transformed\jetified-customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\sexporsche\.gradle\caches\transforms-3\939fc258953deae25dff1504a8b0c761\transformed\jetified-customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.12.0] C:\Users\sexporsche\.gradle\caches\transforms-3\0ac775ea7813c2d56fda881959c46252\transformed\jetified-core-ktx-1.12.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.12.0] C:\Users\sexporsche\.gradle\caches\transforms-3\0ac775ea7813c2d56fda881959c46252\transformed\jetified-core-ktx-1.12.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\sexporsche\.gradle\caches\transforms-3\5362c71add9c73ff80dd3619fd94d251\transformed\swiperefreshlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\sexporsche\.gradle\caches\transforms-3\5362c71add9c73ff80dd3619fd94d251\transformed\swiperefreshlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.2.0] C:\Users\sexporsche\.gradle\caches\transforms-3\879aac4cc67d8492342b5b2fd06aed79\transformed\coordinatorlayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.2.0] C:\Users\sexporsche\.gradle\caches\transforms-3\879aac4cc67d8492342b5b2fd06aed79\transformed\coordinatorlayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\sexporsche\.gradle\caches\transforms-3\3c01dd48e0f41f7f653317da631ccaf8\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\sexporsche\.gradle\caches\transforms-3\3c01dd48e0f41f7f653317da631ccaf8\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\sexporsche\.gradle\caches\transforms-3\2a833a01a2ff5c3e30e308b329bb48d7\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\sexporsche\.gradle\caches\transforms-3\2a833a01a2ff5c3e30e308b329bb48d7\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\sexporsche\.gradle\caches\transforms-3\dff0a48efc22bfe283f22f8d709723c5\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\sexporsche\.gradle\caches\transforms-3\dff0a48efc22bfe283f22f8d709723c5\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\sexporsche\.gradle\caches\transforms-3\2e9e565da4c5948e06864e45991c08c7\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\sexporsche\.gradle\caches\transforms-3\2e9e565da4c5948e06864e45991c08c7\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\sexporsche\.gradle\caches\transforms-3\e758e5f790b30d6231ce341e8945ce37\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\sexporsche\.gradle\caches\transforms-3\e758e5f790b30d6231ce341e8945ce37\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\sexporsche\.gradle\caches\transforms-3\86a56f6296b2213a265cd5c1dbbd46f3\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\sexporsche\.gradle\caches\transforms-3\86a56f6296b2213a265cd5c1dbbd46f3\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\sexporsche\.gradle\caches\transforms-3\7aa226efa4f2fe64f2fd8f6891155ce3\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\sexporsche\.gradle\caches\transforms-3\7aa226efa4f2fe64f2fd8f6891155ce3\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\sexporsche\.gradle\caches\transforms-3\45e166ad2a63dfb7991c20b3f54ea705\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\sexporsche\.gradle\caches\transforms-3\45e166ad2a63dfb7991c20b3f54ea705\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\sexporsche\.gradle\caches\transforms-3\8b0e5e74d513da7f19908af768c4867b\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\sexporsche\.gradle\caches\transforms-3\8b0e5e74d513da7f19908af768c4867b\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\sexporsche\.gradle\caches\transforms-3\7c60b6223db4691ea1f22bc0d12aaa7d\transformed\jetified-autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\sexporsche\.gradle\caches\transforms-3\7c60b6223db4691ea1f22bc0d12aaa7d\transformed\jetified-autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\sexporsche\.gradle\caches\transforms-3\af9ecd905ab0994c3db237af0279d2f2\transformed\jetified-emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\sexporsche\.gradle\caches\transforms-3\af9ecd905ab0994c3db237af0279d2f2\transformed\jetified-emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\sexporsche\.gradle\caches\transforms-3\91463a0135f8771186b583586a71d070\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\sexporsche\.gradle\caches\transforms-3\91463a0135f8771186b583586a71d070\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.core:core:1.12.0] C:\Users\sexporsche\.gradle\caches\transforms-3\81317a5fabfcc4f617d3522184e0f396\transformed\core-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.12.0] C:\Users\sexporsche\.gradle\caches\transforms-3\81317a5fabfcc4f617d3522184e0f396\transformed\core-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\sexporsche\.gradle\caches\transforms-3\ba071f514acabe8cc86ac3bcb6761428\transformed\jetified-savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\sexporsche\.gradle\caches\transforms-3\ba071f514acabe8cc86ac3bcb6761428\transformed\jetified-savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\sexporsche\.gradle\caches\transforms-3\f68448a0ae8bb8d38f0a3bc0035e66bf\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\sexporsche\.gradle\caches\transforms-3\f68448a0ae8bb8d38f0a3bc0035e66bf\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\sexporsche\.gradle\caches\transforms-3\f5c400ac819ed3692955157be4462b21\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\sexporsche\.gradle\caches\transforms-3\f5c400ac819ed3692955157be4462b21\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] C:\Users\sexporsche\.gradle\caches\transforms-3\29bc6d06ef0d325bfbe2aadd75064254\transformed\lifecycle-livedata-core-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] C:\Users\sexporsche\.gradle\caches\transforms-3\29bc6d06ef0d325bfbe2aadd75064254\transformed\lifecycle-livedata-core-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] C:\Users\sexporsche\.gradle\caches\transforms-3\b89b247fefe2096aca7dd5145a813965\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] C:\Users\sexporsche\.gradle\caches\transforms-3\b89b247fefe2096aca7dd5145a813965\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] C:\Users\sexporsche\.gradle\caches\transforms-3\1da272fd55a0753e739091785d6f6078\transformed\lifecycle-livedata-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] C:\Users\sexporsche\.gradle\caches\transforms-3\1da272fd55a0753e739091785d6f6078\transformed\lifecycle-livedata-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] C:\Users\sexporsche\.gradle\caches\transforms-3\b9eb3eea1ebd05e8dd06de684b90d0d0\transformed\lifecycle-runtime-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] C:\Users\sexporsche\.gradle\caches\transforms-3\b9eb3eea1ebd05e8dd06de684b90d0d0\transformed\lifecycle-runtime-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] C:\Users\sexporsche\.gradle\caches\transforms-3\34741491e73c5fcbc5492a491e0f06e0\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] C:\Users\sexporsche\.gradle\caches\transforms-3\34741491e73c5fcbc5492a491e0f06e0\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] C:\Users\sexporsche\.gradle\caches\transforms-3\8a0343afe2afff88def92a3f63579aaf\transformed\lifecycle-viewmodel-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] C:\Users\sexporsche\.gradle\caches\transforms-3\8a0343afe2afff88def92a3f63579aaf\transformed\lifecycle-viewmodel-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] C:\Users\sexporsche\.gradle\caches\transforms-3\97784346b6f77e0468d945e09d042ff5\transformed\jetified-lifecycle-runtime-ktx-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] C:\Users\sexporsche\.gradle\caches\transforms-3\97784346b6f77e0468d945e09d042ff5\transformed\jetified-lifecycle-runtime-ktx-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.7.0] C:\Users\sexporsche\.gradle\caches\transforms-3\7b6b4f0c2b49cab943259f0b43ccef23\transformed\jetified-lifecycle-livedata-ktx-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.7.0] C:\Users\sexporsche\.gradle\caches\transforms-3\7b6b4f0c2b49cab943259f0b43ccef23\transformed\jetified-lifecycle-livedata-ktx-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.7.0] C:\Users\sexporsche\.gradle\caches\transforms-3\3b0e3ae53272e45446b4dd36d2905673\transformed\jetified-lifecycle-viewmodel-compose-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.7.0] C:\Users\sexporsche\.gradle\caches\transforms-3\3b0e3ae53272e45446b4dd36d2905673\transformed\jetified-lifecycle-viewmodel-compose-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose:2.7.0] C:\Users\sexporsche\.gradle\caches\transforms-3\13cdd2583432d1c18c414f67dcdf9aee\transformed\jetified-lifecycle-runtime-compose-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose:2.7.0] C:\Users\sexporsche\.gradle\caches\transforms-3\13cdd2583432d1c18c414f67dcdf9aee\transformed\jetified-lifecycle-runtime-compose-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] C:\Users\sexporsche\.gradle\caches\transforms-3\c8fd0d29991d469e206a4be414da8f69\transformed\jetified-lifecycle-viewmodel-ktx-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] C:\Users\sexporsche\.gradle\caches\transforms-3\c8fd0d29991d469e206a4be414da8f69\transformed\jetified-lifecycle-viewmodel-ktx-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.room:room-runtime:2.6.1] C:\Users\sexporsche\.gradle\caches\transforms-3\9571e14c88c6cdc7502b2d2c9aa17cbe\transformed\room-runtime-2.6.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.room:room-runtime:2.6.1] C:\Users\sexporsche\.gradle\caches\transforms-3\9571e14c88c6cdc7502b2d2c9aa17cbe\transformed\room-runtime-2.6.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.room:room-ktx:2.6.1] C:\Users\sexporsche\.gradle\caches\transforms-3\bcf7cbf14f3feeaa9bebde100f42c8eb\transformed\jetified-room-ktx-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-ktx:2.6.1] C:\Users\sexporsche\.gradle\caches\transforms-3\bcf7cbf14f3feeaa9bebde100f42c8eb\transformed\jetified-room-ktx-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.6.1] C:\Users\sexporsche\.gradle\caches\transforms-3\c3b6785c92ee267946286f78c1e4252a\transformed\jetified-runtime-saveable-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.6.1] C:\Users\sexporsche\.gradle\caches\transforms-3\c3b6785c92ee267946286f78c1e4252a\transformed\jetified-runtime-saveable-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.6.1] C:\Users\sexporsche\.gradle\caches\transforms-3\55d50d24ef1cf6e98692b49490dfec86\transformed\jetified-runtime-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.6.1] C:\Users\sexporsche\.gradle\caches\transforms-3\55d50d24ef1cf6e98692b49490dfec86\transformed\jetified-runtime-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.4.0] C:\Users\sexporsche\.gradle\caches\transforms-3\cdaea25c4d86011fcd7867dcd5916ae9\transformed\sqlite-framework-2.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.4.0] C:\Users\sexporsche\.gradle\caches\transforms-3\cdaea25c4d86011fcd7867dcd5916ae9\transformed\sqlite-framework-2.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.4.0] C:\Users\sexporsche\.gradle\caches\transforms-3\61c8a979cce74ccd400cd2def30be15c\transformed\sqlite-2.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.4.0] C:\Users\sexporsche\.gradle\caches\transforms-3\61c8a979cce74ccd400cd2def30be15c\transformed\sqlite-2.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\sexporsche\.gradle\caches\transforms-3\86ffdf654a57c4fcce07bcc737cfaa18\transformed\jetified-annotation-experimental-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\sexporsche\.gradle\caches\transforms-3\86ffdf654a57c4fcce07bcc737cfaa18\transformed\jetified-annotation-experimental-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\sexporsche\.gradle\caches\transforms-3\3d048974f960b44f08a1a837a28a9a93\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\sexporsche\.gradle\caches\transforms-3\3d048974f960b44f08a1a837a28a9a93\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\sexporsche\.gradle\caches\transforms-3\cc1b0b5c688c35d8ce20a3b1f1ebd106\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\sexporsche\.gradle\caches\transforms-3\cc1b0b5c688c35d8ce20a3b1f1ebd106\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\sexporsche\.gradle\caches\transforms-3\8073f44f80a1dea4ecc38b1d4bd798fc\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\sexporsche\.gradle\caches\transforms-3\8073f44f80a1dea4ecc38b1d4bd798fc\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\sexporsche\.gradle\caches\transforms-3\ab7ebc41a8fc8dd8e36b44d4e76c942e\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\sexporsche\.gradle\caches\transforms-3\ab7ebc41a8fc8dd8e36b44d4e76c942e\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\sexporsche\.gradle\caches\transforms-3\58ecee9e6674fe2d8dc4a4ac1c50c292\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\sexporsche\.gradle\caches\transforms-3\58ecee9e6674fe2d8dc4a4ac1c50c292\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\sexporsche\.gradle\caches\transforms-3\1e40877f996d021674e23d2724db8721\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\sexporsche\.gradle\caches\transforms-3\1e40877f996d021674e23d2724db8721\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\sexporsche\.gradle\caches\transforms-3\06229b3a6e76228d991474618e71b7c6\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\sexporsche\.gradle\caches\transforms-3\06229b3a6e76228d991474618e71b7c6\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\sexporsche\.gradle\caches\transforms-3\f06eb19383a1188b9d11887181d48c0a\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\sexporsche\.gradle\caches\transforms-3\f06eb19383a1188b9d11887181d48c0a\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\sexporsche\.gradle\caches\transforms-3\8b8b29c149e80bce53542f769f47aef0\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\sexporsche\.gradle\caches\transforms-3\8b8b29c149e80bce53542f769f47aef0\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\sexporsche\.gradle\caches\transforms-3\36c8a1b5549cc031ec7c1b2d9f6c8804\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\sexporsche\.gradle\caches\transforms-3\36c8a1b5549cc031ec7c1b2d9f6c8804\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\sexporsche\.gradle\caches\transforms-3\410b684179f41e532fdb1db2482f0e60\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\sexporsche\.gradle\caches\transforms-3\410b684179f41e532fdb1db2482f0e60\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.3.7] C:\Users\sexporsche\.gradle\caches\transforms-3\df88f22a39a847215a9b23442224f3b0\transformed\exifinterface-1.3.7\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.7] C:\Users\sexporsche\.gradle\caches\transforms-3\df88f22a39a847215a9b23442224f3b0\transformed\exifinterface-1.3.7\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\android\CorporateMessenger-CorporateMessenger\app\src\main\AndroidManifest.xml
+INJECTED from D:\android\CorporateMessenger-CorporateMessenger\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\android\CorporateMessenger-CorporateMessenger\app\src\main\AndroidManifest.xml
+		ADDED from D:\android\CorporateMessenger-CorporateMessenger\app\src\main\AndroidManifest.xml
+		INJECTED from D:\android\CorporateMessenger-CorporateMessenger\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\android\CorporateMessenger-CorporateMessenger\app\src\main\AndroidManifest.xml
+		ADDED from D:\android\CorporateMessenger-CorporateMessenger\app\src\main\AndroidManifest.xml
+		INJECTED from D:\android\CorporateMessenger-CorporateMessenger\app\src\main\AndroidManifest.xml
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling-android:1.6.1] C:\Users\sexporsche\.gradle\caches\transforms-3\f7ffe07bb75ab6ea6e3e686825b9ec57\transformed\jetified-ui-tooling-release\AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.6.1] C:\Users\sexporsche\.gradle\caches\transforms-3\f7ffe07bb75ab6ea6e3e686825b9ec57\transformed\jetified-ui-tooling-release\AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.6.1] C:\Users\sexporsche\.gradle\caches\transforms-3\f7ffe07bb75ab6ea6e3e686825b9ec57\transformed\jetified-ui-tooling-release\AndroidManifest.xml:24:13-71
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\sexporsche\.gradle\caches\transforms-3\91463a0135f8771186b583586a71d070\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\sexporsche\.gradle\caches\transforms-3\f5c400ac819ed3692955157be4462b21\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\sexporsche\.gradle\caches\transforms-3\f5c400ac819ed3692955157be4462b21\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\sexporsche\.gradle\caches\transforms-3\1e40877f996d021674e23d2724db8721\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\sexporsche\.gradle\caches\transforms-3\1e40877f996d021674e23d2724db8721\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\sexporsche\.gradle\caches\transforms-3\06229b3a6e76228d991474618e71b7c6\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\sexporsche\.gradle\caches\transforms-3\06229b3a6e76228d991474618e71b7c6\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\sexporsche\.gradle\caches\transforms-3\91463a0135f8771186b583586a71d070\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\sexporsche\.gradle\caches\transforms-3\91463a0135f8771186b583586a71d070\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\sexporsche\.gradle\caches\transforms-3\91463a0135f8771186b583586a71d070\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\sexporsche\.gradle\caches\transforms-3\91463a0135f8771186b583586a71d070\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\sexporsche\.gradle\caches\transforms-3\91463a0135f8771186b583586a71d070\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\sexporsche\.gradle\caches\transforms-3\91463a0135f8771186b583586a71d070\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\sexporsche\.gradle\caches\transforms-3\91463a0135f8771186b583586a71d070\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] C:\Users\sexporsche\.gradle\caches\transforms-3\81317a5fabfcc4f617d3522184e0f396\transformed\core-1.12.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] C:\Users\sexporsche\.gradle\caches\transforms-3\81317a5fabfcc4f617d3522184e0f396\transformed\core-1.12.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] C:\Users\sexporsche\.gradle\caches\transforms-3\81317a5fabfcc4f617d3522184e0f396\transformed\core-1.12.0\AndroidManifest.xml:23:9-81
+permission#com.example.messenger.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] C:\Users\sexporsche\.gradle\caches\transforms-3\81317a5fabfcc4f617d3522184e0f396\transformed\core-1.12.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] C:\Users\sexporsche\.gradle\caches\transforms-3\81317a5fabfcc4f617d3522184e0f396\transformed\core-1.12.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] C:\Users\sexporsche\.gradle\caches\transforms-3\81317a5fabfcc4f617d3522184e0f396\transformed\core-1.12.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] C:\Users\sexporsche\.gradle\caches\transforms-3\81317a5fabfcc4f617d3522184e0f396\transformed\core-1.12.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] C:\Users\sexporsche\.gradle\caches\transforms-3\81317a5fabfcc4f617d3522184e0f396\transformed\core-1.12.0\AndroidManifest.xml:26:22-94
+uses-permission#com.example.messenger.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] C:\Users\sexporsche\.gradle\caches\transforms-3\81317a5fabfcc4f617d3522184e0f396\transformed\core-1.12.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] C:\Users\sexporsche\.gradle\caches\transforms-3\81317a5fabfcc4f617d3522184e0f396\transformed\core-1.12.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\sexporsche\.gradle\caches\transforms-3\f5c400ac819ed3692955157be4462b21\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\sexporsche\.gradle\caches\transforms-3\f5c400ac819ed3692955157be4462b21\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\sexporsche\.gradle\caches\transforms-3\f5c400ac819ed3692955157be4462b21\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:30:17-78
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.6.1] C:\Users\sexporsche\.gradle\caches\transforms-3\9571e14c88c6cdc7502b2d2c9aa17cbe\transformed\room-runtime-2.6.1\AndroidManifest.xml:24:9-28:63
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.6.1] C:\Users\sexporsche\.gradle\caches\transforms-3\9571e14c88c6cdc7502b2d2c9aa17cbe\transformed\room-runtime-2.6.1\AndroidManifest.xml:27:13-37
+	tools:ignore
+		ADDED from [androidx.room:room-runtime:2.6.1] C:\Users\sexporsche\.gradle\caches\transforms-3\9571e14c88c6cdc7502b2d2c9aa17cbe\transformed\room-runtime-2.6.1\AndroidManifest.xml:28:13-60
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.6.1] C:\Users\sexporsche\.gradle\caches\transforms-3\9571e14c88c6cdc7502b2d2c9aa17cbe\transformed\room-runtime-2.6.1\AndroidManifest.xml:26:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.6.1] C:\Users\sexporsche\.gradle\caches\transforms-3\9571e14c88c6cdc7502b2d2c9aa17cbe\transformed\room-runtime-2.6.1\AndroidManifest.xml:25:13-74
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\sexporsche\.gradle\caches\transforms-3\1e40877f996d021674e23d2724db8721\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\sexporsche\.gradle\caches\transforms-3\1e40877f996d021674e23d2724db8721\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\sexporsche\.gradle\caches\transforms-3\1e40877f996d021674e23d2724db8721\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\sexporsche\.gradle\caches\transforms-3\1e40877f996d021674e23d2724db8721\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\sexporsche\.gradle\caches\transforms-3\1e40877f996d021674e23d2724db8721\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\sexporsche\.gradle\caches\transforms-3\1e40877f996d021674e23d2724db8721\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\sexporsche\.gradle\caches\transforms-3\1e40877f996d021674e23d2724db8721\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\sexporsche\.gradle\caches\transforms-3\1e40877f996d021674e23d2724db8721\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\sexporsche\.gradle\caches\transforms-3\1e40877f996d021674e23d2724db8721\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\sexporsche\.gradle\caches\transforms-3\1e40877f996d021674e23d2724db8721\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\sexporsche\.gradle\caches\transforms-3\1e40877f996d021674e23d2724db8721\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\sexporsche\.gradle\caches\transforms-3\1e40877f996d021674e23d2724db8721\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\sexporsche\.gradle\caches\transforms-3\1e40877f996d021674e23d2724db8721\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\sexporsche\.gradle\caches\transforms-3\1e40877f996d021674e23d2724db8721\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\sexporsche\.gradle\caches\transforms-3\1e40877f996d021674e23d2724db8721\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\sexporsche\.gradle\caches\transforms-3\1e40877f996d021674e23d2724db8721\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\sexporsche\.gradle\caches\transforms-3\1e40877f996d021674e23d2724db8721\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\sexporsche\.gradle\caches\transforms-3\1e40877f996d021674e23d2724db8721\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\sexporsche\.gradle\caches\transforms-3\1e40877f996d021674e23d2724db8721\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\sexporsche\.gradle\caches\transforms-3\1e40877f996d021674e23d2724db8721\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\sexporsche\.gradle\caches\transforms-3\1e40877f996d021674e23d2724db8721\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:50:25-92

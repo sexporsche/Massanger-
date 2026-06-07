@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Прайм-Медиа</string>
+    <string name="server_host">192.168.100.8</string>
+    <string name="login_title">Вход</string>
+    <string name="login_subtitle">Корпоративный мессенджер</string>
+    <string name="hint_username">Логин</string>
+    <string name="hint_password">Пароль</string>
+    <string name="action_login">Войти</string>
+    <string name="action_register">Регистрация</string>
+    <string name="contacts_title">Сообщения</string>
+    <string name="search_contacts">Поиск</string>
+    <string name="empty_contacts">Нет контактов</string>
+    <string name="empty_contacts_subtitle">Коллеги появятся здесь после синхронизации</string>
+    <string name="empty_chat">Нет сообщений\nНапишите первым</string>
+    <string name="status_online">В сети</string>
+    <string name="status_offline">Не в сети</string>
+    <string name="chat_group_mode_hint">Групповой чат (просмотр)</string>
+    <string name="hint_message">Сообщение</string>
+    <string name="send">Отправить</string>
+    <string name="attach">Вложение</string>
+    <string name="chat_with">Чат</string>
+    <string name="error_auth_socket">Сессия устарела. Войдите снова.</string>
+    <string name="error_send">Не удалось отправить</string>
+</resources>

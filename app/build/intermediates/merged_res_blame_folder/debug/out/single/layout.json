@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.example.messenger.app-mergeDebugResources-72:/layout/activity_chat.xml",
+        "source": "com.example.messenger.app-main-75:/layout/activity_chat.xml"
+    },
+    {
+        "merged": "com.example.messenger.app-mergeDebugResources-72:/layout/activity_contacts.xml",
+        "source": "com.example.messenger.app-main-75:/layout/activity_contacts.xml"
+    },
+    {
+        "merged": "com.example.messenger.app-mergeDebugResources-72:/layout/item_contact.xml",
+        "source": "com.example.messenger.app-main-75:/layout/item_contact.xml"
+    },
+    {
+        "merged": "com.example.messenger.app-mergeDebugResources-72:/layout/item_message_sent.xml",
+        "source": "com.example.messenger.app-main-75:/layout/item_message_sent.xml"
+    },
+    {
+        "merged": "com.example.messenger.app-mergeDebugResources-72:/layout/item_message_received.xml",
+        "source": "com.example.messenger.app-main-75:/layout/item_message_received.xml"
+    },
+    {
+        "merged": "com.example.messenger.app-mergeDebugResources-72:/layout/activity_login.xml",
+        "source": "com.example.messenger.app-main-75:/layout/activity_login.xml"
+    }
+]

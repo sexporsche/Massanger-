@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Widget.Messenger.TextInput" parent="Widget.Material3.TextInputLayout.OutlinedBox">
+        <item name="boxCornerRadiusTopStart">16dp</item>
+        <item name="boxCornerRadiusTopEnd">16dp</item>
+        <item name="boxCornerRadiusBottomStart">16dp</item>
+        <item name="boxCornerRadiusBottomEnd">16dp</item>
+        <item name="boxStrokeColor">@color/stroke_subtle</item>
+        <item name="hintTextColor">@color/md_on_surface_variant</item>
+    </style>
+
+    <style name="Widget.Messenger.Button.Login" parent="Widget.Material3.Button">
+        <item name="android:textAllCaps">false</item>
+        <item name="cornerRadius">12dp</item>
+        <item name="android:minHeight">52dp</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+
+    <style name="TextAppearance.Messenger.Display" parent="TextAppearance.Material3.HeadlineLarge">
+        <item name="android:textColor">@color/md_on_surface</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+
+    <style name="TextAppearance.Messenger.Headline" parent="TextAppearance.Material3.HeadlineSmall">
+        <item name="android:textColor">@color/md_on_surface</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+
+    <style name="TextAppearance.Messenger.Title" parent="TextAppearance.Material3.TitleLarge">
+        <item name="android:textColor">@color/md_on_surface</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+
+    <style name="TextAppearance.Messenger.Body" parent="TextAppearance.Material3.BodyLarge">
+        <item name="android:textColor">@color/md_on_surface</item>
+    </style>
+
+    <style name="TextAppearance.Messenger.Label" parent="TextAppearance.Material3.LabelMedium">
+        <item name="android:textColor">@color/md_on_surface_variant</item>
+    </style>
+
+    <style name="TextAppearance.Messenger.Caption" parent="TextAppearance.Material3.BodySmall">
+        <item name="android:textColor">@color/md_on_surface_variant</item>
+    </style>
+
+    <style name="TextAppearance.Messenger.Bubble" parent="TextAppearance.Material3.BodyLarge">
+        <item name="android:textSize">16sp</item>
+        <item name="android:lineSpacingExtra">2dp</item>
+    </style>
+
+    <style name="TextAppearance.Messenger.BubbleTime" parent="TextAppearance.Material3.LabelSmall">
+        <item name="android:textSize">11sp</item>
+    </style>
+</resources>
